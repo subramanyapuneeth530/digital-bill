@@ -5,7 +5,12 @@ A modern, mobile-first digital menu and billing system for hotels and restaurant
 ## 📱 Demo
 
 <div align="center">
-  <video src="digital_menu_demo.mp4" width="100%" controls></video>
+  <video src="https://github.com/subramanyapuneeth530/digital-bill/raw/main/digital_menu_demo.mp4" width="100%" controls></video>
+  <p>
+    <a href="https://github.com/subramanyapuneeth530/digital-bill/blob/main/digital_menu_demo.mp4">
+      📺 View Demo on GitHub
+    </a>
+  </p>
 </div>
 
 ## 🚀 Features
